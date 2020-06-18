@@ -3,7 +3,6 @@
 
 # ## Simple calculator
 
-# In[2]:
 
 
 num1=int(input("Enter first number:"))
@@ -16,8 +15,6 @@ print("Modulus = ",num1%num2)
 print("Exponent = ",num1**num2)
 print("Floor division = ",num1//num2)
 
-
-# In[ ]:
 
 
 
